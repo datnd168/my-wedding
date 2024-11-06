@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "react-toastify/dist/ReactToastify.css";
+@import "swiper/css";
+@import "swiper/css/effect-cards";
+
+@layer base {
+  @font-face {
+    font-family: "Work Sans";
+    src: url('fonts/WorkSans-VariableFont_wght.ttf');
+  }
+
+  html {
+    font-family: 'Work Sans', system-ui, sans-serif;
+  }
+
+  .animate-box {
+    visibility: hidden;
+  }
+
+  .mySwiper {
+    width: 280px;
+    height: 400px;
+  }
+
+  @media only screen and (min-width: 768px) {
+    .mySwiper {
+      width: 350px;
+      height: 500px;
+    }
+  }
+
+
+  @media only screen and (min-width: 1024px) {
+    .mySwiper {
+      width: 400px;
+      height: 580px;
+    }
+  }
+}
