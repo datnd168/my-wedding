@@ -12,11 +12,11 @@ export const metadata: Metadata = {
   title: "Đình Đạt - Hải Yến",
   themeColor: "#FFF",
   description: "Lễ thành hôn của Đình Đạt và Hải Yến",
-  metadataBase: new URL("https://datyen-wedding.vercel.app/"),
+  metadataBase: new URL("https://datyen.vercel.app/"),
   openGraph: {
     type: "website",
     siteName: "Đình Đạt - Hải Yến",
-    url: "https://datyen-wedding.vercel.app/",
+    url: "https://datyen.vercel.app/",
   },
   twitter: {
     site: "@site",

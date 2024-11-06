@@ -60,7 +60,6 @@ export default function Memory() {
           ))}
         </div>
 
-        {/* Lightbox */}
         {isOpen && currentImage && (
           <div
             className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-70"
