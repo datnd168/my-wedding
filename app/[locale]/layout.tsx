@@ -17,6 +17,7 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "Đình Đạt - Hải Yến",
     url: "https://datyen.vercel.app/",
+    images: "https://datyen.vercel.app/assets/banner.jpg",
   },
   twitter: {
     site: "@site",
