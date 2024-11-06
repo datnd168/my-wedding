@@ -7,11 +7,11 @@ const nextConfig = {
     // serverComponentsExternalPackages: ["mongoose"],
   },
   images: {
-    domains: ["idatyen-wedding.vercel.app"],
+    domains: ["datyen.vercel.app"],
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "datyen-wedding.vercel.app",
+        hostname: "datyen.vercel.app",
       },
     ],
   },
