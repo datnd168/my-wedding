@@ -47,7 +47,7 @@ export default function BankAccount() {
               {configs.wifeBankNumber}
             </div>
             <Image
-              src="/assets/husband_qr.png"
+              src="/assets/wife_qr.jpg"
               alt=""
               width={200}
               height={200}
