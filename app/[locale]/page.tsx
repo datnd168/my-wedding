@@ -23,7 +23,7 @@ export default async function Home() {
       <Banner />
       <Foreword />
       <WeddingEvent />
-      {/* <Timeline /> */}
+      <Timeline />
       <Memory />
       <BankAccount />
       {/* <AttendForm /> */}
