@@ -4,12 +4,12 @@ import Image from "next/image";
 export default function BankAccount() {
   return (
     <div className="relative flex h-[954px] w-full justify-center md:h-[698px]">
-      <Image
-        src="/assets/img_bg.jpeg"
+      {/* <Image
+        src="/assets/img1.jpeg"
         alt=""
         fill
         style={{ objectFit: "cover" }}
-      />
+      /> */}
       <div className="absolute bottom-0 left-0 right-0 top-0 bg-black opacity-40" />
 
       <div className="absolute flex h-full w-full max-w-[1140px] flex-col items-center justify-center px-5 text-center">

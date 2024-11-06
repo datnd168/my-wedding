@@ -8,6 +8,7 @@ import WeddingEvent from "@/components/weddingTemplate/v1/WeddingEvent";
 import Footer from "@/components/weddingTemplate/v1/Footer";
 import Head from "next/head";
 import FloatingMusic from "@/components/audio";
+import MusicPlayer from "@/components/weddingTemplate/v1/components/MusicPlayer";
 // import AttendForm from "@/components/weddingTemplate/v1/AttendForm";
 
 export default async function Home() {
@@ -27,6 +28,8 @@ export default async function Home() {
       <Memory />
       <BankAccount />
       {/* <AttendForm /> */}
+      <MusicPlayer />
+
       <Footer />
       {/* <FloatingMusic /> */}
     </div>
