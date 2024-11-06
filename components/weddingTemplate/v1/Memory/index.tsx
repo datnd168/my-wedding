@@ -7,7 +7,7 @@ export default function Memory() {
   const [currentImage, setCurrentImage] = useState<string>("");
 
   const images = [
-    "/assets/img1.jpeg",
+    "/assets/img10.jpeg",
     "/assets/img13.jpeg",
     "/assets/img2.jpeg",
     "/assets/img3.jpeg",
