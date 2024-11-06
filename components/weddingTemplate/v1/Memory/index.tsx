@@ -17,7 +17,7 @@ export default function Memory() {
           <div className="animate-box h-[416px] w-full p-1 md:w-1/3 lg:p-[5px]">
             <div className="relative h-full w-full">
               <Image
-                src="/assets/img1.jpg"
+                src="/assets/img1.jpeg"
                 alt=""
                 fill
                 className="rounded-lg"
@@ -43,7 +43,7 @@ export default function Memory() {
           <div className="animate-box h-[416px] w-full p-1 md:w-1/3 lg:p-[5px]">
             <div className="relative h-full w-full">
               <Image
-                src="/assets/img2.jpg"
+                src="/assets/img2.jpeg"
                 alt=""
                 fill
                 className="rounded-lg"
@@ -56,7 +56,7 @@ export default function Memory() {
           <div className="animate-box h-[416px] w-full p-1 md:w-1/3 lg:p-[5px]">
             <div className="relative h-full w-full">
               <Image
-                src="/assets/img3.jpg"
+                src="/assets/img3.jpeg"
                 alt=""
                 fill
                 className="rounded-lg"
@@ -69,7 +69,7 @@ export default function Memory() {
           <div className="animate-box h-[416px] w-full p-1 md:w-1/3 lg:p-[5px]">
             <div className="relative h-full w-full">
               <Image
-                src="/assets/img4.jpg"
+                src="/assets/img4.jpeg"
                 alt=""
                 fill
                 className="rounded-lg"
@@ -82,7 +82,7 @@ export default function Memory() {
           <div className="animate-box h-[416px] w-full p-1 md:w-1/3 lg:p-[5px]">
             <div className="relative h-full w-full">
               <Image
-                src="/assets/img5.jpg"
+                src="/assets/img5.jpeg"
                 alt=""
                 fill
                 className="rounded-lg"
