@@ -17,7 +17,7 @@ export default function Memory() {
           <div className="animate-box h-[416px] w-full p-1 md:w-1/3 lg:p-[5px]">
             <div className="relative h-full w-full">
               <Image
-                src="/assets/img6.jpg"
+                src="/assets/img1.jpg"
                 alt=""
                 fill
                 className="rounded-lg"
