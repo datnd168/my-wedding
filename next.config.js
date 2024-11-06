@@ -7,11 +7,12 @@ const nextConfig = {
     // serverComponentsExternalPackages: ["mongoose"],
   },
   images: {
-    domains: ["datyen.vercel.app"],
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "datyen.vercel.app",
+        hostname: "**",
+        port: "",
+        pathname: "/**",
       },
     ],
   },
