@@ -1,8 +1,8 @@
 const configs = {
   husbandName: "Đình Đạt",
   wifeName: "Hải Yến",
-  husbandBankNumber: "2206200068999",
-  wifeBankNumber: "02191205301",
+  husbandBankNumber: "02191205301",
+  wifeBankNumber: "2206200068999",
   husbandBankName: "NGUYEN DINH DAT",
   wifeBankName: "PHUNG THI HAI YEN",
   address_husband: "Thôn Cánh Chủ, Xã Bình Yên, Huyện Thạch Thất, Hà Nội",

@@ -27,8 +27,9 @@ export default function BankAccount() {
             <div className="mb-5 font-inter text-3xl text-pink">
               {configs.husbandBankName}
             </div>
+
             <div className="mb-5 text-xl font-semibold text-gray-c">
-              {configs.husbandBankNumber}
+              Tp Bank - {configs.husbandBankNumber}
             </div>
             <Image
               src="/assets/husband_qr.png"
@@ -44,7 +45,7 @@ export default function BankAccount() {
               {configs.wifeBankName}
             </div>
             <div className="mb-5 text-xl font-semibold text-gray-c">
-              {configs.wifeBankNumber}
+              Mb Bank - {configs.wifeBankNumber}
             </div>
             <Image
               src="/assets/wife_qr.jpg"
