@@ -43,7 +43,7 @@ export default function Memory() {
           {images.map((src, index) => (
             <div
               key={index}
-              className="animate-box h-[416px] w-full cursor-pointer p-1 md:w-1/3 lg:p-[5px]"
+              className="animate-box h-[500px] w-full cursor-pointer p-1 md:w-1/3 lg:p-[5px]"
               onClick={() => handleImageClick(src)}
             >
               <div className="relative h-full w-full">
